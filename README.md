@@ -1,0 +1,1 @@
+# print-all-even-number-using-pointer
